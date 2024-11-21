@@ -1,0 +1,6 @@
+1: Natural Language Processing (NLP) Enhancements:
+
+Study advancements in language models, such as transformers and their applications in chatbots or translation services.
+
+# Python program to print a welcome message
+print("Hello NKNU!")
